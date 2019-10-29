@@ -282,7 +282,7 @@ $ git push</pre>
 
                 <p>Documentation on how to manage your application from the Web Console or Command Line is available at the <a href="http://docs.okd.io/latest/dev_guide/overview.html">Developer Guide</a>.</p>
 
-                <h3>Web Console</h3>
+                <h3>Web ConsolXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXe</h3>
                 <p>You can use the Web Console to view the state of your application components and launch new builds.</p>
 
                 <h3>Command Line</h3>
